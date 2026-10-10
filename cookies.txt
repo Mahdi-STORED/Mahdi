@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-hfxxcuqjlmivhidmhqva.supabase.co	TRUE	/	FALSE	1999999999	__cf_bm	jqtnjk6eukMJ4v8jO4pTtzexkDtLHoXv_5UJE4OGClY-1791657391.451933-1.0.1.1-eAlCMSjVvt6vaoI7xvMXzl8hTYPB52pcjekSBn2DpfEWD4C0hhEekJiTWDcb7mtJXZ.DHjmNUrfYDDwVCdNeeyqIb8wvlcz_9qYZqgguzOEcSk4MYMAOVG.FYndLVzzz
-supabase.co	TRUE	/	FALSE	1999999999	SameSite	None
-
